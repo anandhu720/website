@@ -1,0 +1,16 @@
+.mySlides {
+    display:none;
+    position:relative;
+    max-width: 100%;
+    width: 100%;
+    height: 800px;
+    margin-top:.5%;
+}
+
+@media screen and (max-width: 1200px) {
+    .mySlides {
+        height: 300px;
+    
+    }
+  }
+  
